@@ -21,6 +21,7 @@ public class Dynamite {
 	public void blowDynamiteLoudBang(int fuseLength) {
 		System.out.println("lighting fuse with length of " + fuseLength + "inches.");
 		System.out.println("kabang!!! big explosion!!!");
+		// sample comment 1
 	}
 
 	
